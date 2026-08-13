@@ -1,0 +1,8 @@
+*.gguf
+*.pyc
+__pycache__/
+.env
+._*
+.DS_Store
+*.pcapng
+*.pdf
