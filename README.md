@@ -2,7 +2,11 @@
 
 Gradio chat interface powered by a local GGUF security LLM (Foundation-Sec-8B). Supports PDF upload for document-based Q&A and streams responses with live token-speed display.
 
-## Architecture
+## System Architecture
+
+![Architecture Diagram](docs/architecture-diagram.png)
+
+![Operation Flowchart](docs/operation-flowchart.png)
 
 ```
 User (browser)
